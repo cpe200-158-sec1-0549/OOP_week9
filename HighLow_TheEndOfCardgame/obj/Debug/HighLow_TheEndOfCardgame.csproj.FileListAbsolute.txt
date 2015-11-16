@@ -1,0 +1,9 @@
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\bin\Debug\HighLow_TheEndOfCardgame.exe.config
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\bin\Debug\HighLow_TheEndOfCardgame.exe
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\bin\Debug\HighLow_TheEndOfCardgame.pdb
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\obj\Debug\HighLow_TheEndOfCardgame.csprojResolveAssemblyReference.cache
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\obj\Debug\HighLow_TheEndOfCardgame.Form1.resources
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\obj\Debug\HighLow_TheEndOfCardgame.Properties.Resources.resources
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\obj\Debug\HighLow_TheEndOfCardgame.csproj.GenerateResource.Cache
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\obj\Debug\HighLow_TheEndOfCardgame.exe
+c:\users\win8.1\documents\visual studio 2015\Projects\HighLow_TheEndOfCardgame\HighLow_TheEndOfCardgame\obj\Debug\HighLow_TheEndOfCardgame.pdb
